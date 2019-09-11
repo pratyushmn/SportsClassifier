@@ -1,5 +1,5 @@
 # SportsClassifier
-A machine learning model that can identify the sport being played from a picture of that sport. 
+A neural networks-based model that can identify the sport being played from a picture of that sport. 
 
 Uses fastai libraries, and Jupyter Notebooks which were created and edited on Google's Colaboratory platform.
 
